@@ -1,1 +1,1 @@
-# NB
+# Repository for NoteBook project.
